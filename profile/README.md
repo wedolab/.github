@@ -1,10 +1,10 @@
 # Репозитории организации Wedolab
 
 ## Fitconnect
-- [public](https://github.com/wedolab/fitconnect_public)
-- [observer](https://github.com/wedolab/fitconnect_observer)
-- [tracker](https://github.com/wedolab/fitconnect_tracker)
-- [web-client](https://github.com/wedolab/fitconnect-web-client)
+- [fitconnect-public](https://github.com/wedolab/fitconnect_public)
+- [fitconnect-observer](https://github.com/wedolab/fitconnect_observer)
+- [fitconnect-tracker](https://github.com/wedolab/fitconnect_tracker)
+- [fitconnect-web-client](https://github.com/wedolab/fitconnect-web-client)
 
 ## Big-brother
 - [big-brother](https://github.com/wedolab/big_brother)
