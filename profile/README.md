@@ -5,6 +5,7 @@
 - [fitconnect-observer](https://github.com/wedolab/fitconnect_observer)
 - [fitconnect-tracker](https://github.com/wedolab/fitconnect_tracker)
 - [fitconnect-web-client](https://github.com/wedolab/fitconnect-web-client)
+- [fit-mini(mobile)](https://github.com/wedolab/fit-mini)
 
 ## Big-brother
 - [big-brother](https://github.com/wedolab/big_brother)
