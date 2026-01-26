@@ -16,4 +16,5 @@
 ## Wedolab basis
 - [auth-service](https://github.com/wedolab/keycloak_prod)
 - [wedolab-site](https://github.com/wedolab/wedolab_site)
+- [wedolab-telegram](https://github.com/wedolab/wedolab_telegram)
 
