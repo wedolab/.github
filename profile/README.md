@@ -3,7 +3,6 @@
 ## Fitconnect
 - [fitconnect-public](https://github.com/wedolab/fitconnect_public)
 - [fitconnect-bot](https://github.com/wedolab/fitconnect-bot)
-- [fitconnect-web-client](https://github.com/wedolab/fitconnect-web-client)
 
 ## Bot factory
 - [martalab](https://github.com/wedolab/martalab)
