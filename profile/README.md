@@ -2,18 +2,14 @@
 
 ## Fitconnect
 - [fitconnect-public](https://github.com/wedolab/fitconnect_public)
-- [fitconnect-observer](https://github.com/wedolab/fitconnect_observer)
-- [fitconnect-tracker](https://github.com/wedolab/fitconnect_tracker)
 - [fitconnect-bot](https://github.com/wedolab/fitconnect-bot)
-
-## Big-brother
-- [big-brother](https://github.com/wedolab/big_brother)
+- [fitconnect-web-client](https://github.com/wedolab/fitconnect-web-client)
 
 ## Bot factory
 - [martalab](https://github.com/wedolab/martalab)
+- [project_c6_agents](https://github.com/wedolab/project_c6_agents)
 
 ## Wedolab basis
 - [auth-service](https://github.com/wedolab/keycloak_prod)
 - [wedolab-site](https://github.com/wedolab/wedolab_site)
 - [wedolab-telegram](https://github.com/wedolab/wedolab_telegram)
-
